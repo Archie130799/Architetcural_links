@@ -9,4 +9,4 @@ Architectural links are noted here (Inspiration).
 
 ## 2. Architizer
 ### Website
-    * [ Link ](https://architizer.com/)
+  * [ Link ](https://architizer.com/)
