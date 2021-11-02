@@ -28,3 +28,6 @@ Architectural links are noted here (Inspiration).
 ## My first Architecture job - car
 ### Website
   * [ lINK ](https://www.myfirstarchitecturejob.com/)
+### Instagram
+  * [ Link ](https://www.instagram.com/first_archi_job/)
+  
