@@ -30,4 +30,19 @@ Architectural links are noted here (Inspiration).
   * [ lINK ](https://www.myfirstarchitecturejob.com/)
 ### Instagram
   * [ Link ](https://www.instagram.com/first_archi_job/)
-  
+
+## Archi.ru  - Ref
+### Website
+  * [ lINK ](https://archi.ru/)
+
+## Archello - Ref
+### wesbite
+  * [ lINK ](https://archello.com/)
+
+## Metropolis Mag - Ref
+### website
+  * [ lINK ](https://metropolismag.com/)
+
+## World-architects - Ref
+### website
+  * [ lINK ](https://www.world-architects.com/en)  
